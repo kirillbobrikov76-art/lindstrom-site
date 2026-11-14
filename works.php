@@ -86,6 +86,7 @@ include 'includes/header.php';
         <p>Расскажите о вашей идее — мы поможем воплотить её в металле.</p>
       </div>
       <div>
-        <a href="contacts.php" class="
-
+<a href="contacts.php" class="btn btn--primary">Оставить заявку <span class="btn-arrow">→</span></a>
+</div>
+</section>
 <?php include 'includes/footer.php'; ?>
